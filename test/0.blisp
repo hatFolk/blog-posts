@@ -1,0 +1,63 @@
+[title|This is a nice column layout]
+
+[section|[header|Introduction[footnote|test]]
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget bibendum
+nibh, quis posuere neque. Morbi convallis est tortor, non malesuada odio
+tincidunt et.  Nulla ut sagittis mi.  Aenean ac eros eget urna iaculis
+consectetur eget non velit.  Phasellus nec orci ut quam eleifend
+aliquet[footnote|Morbi non rhoncus quam.  Donec sagittis eu velit volutpat
+posuere.  Donec venenatis lobortis lectus, non iaculis purus tincidunt sit
+amet. Ut egestas neque neque, ac pharetra justo dapibus quis. Sed posuere a odio
+sollicitudin pretium.  Sed euismod orci vel iaculis ullamcorper. Nunc a augue
+lacinia, maximus purus a, egestas maximus.].  
+
+Donec quis velit vel nulla accumsan sollicitudin. Pellentesque tincidunt, velit
+ut elementum lacinia, felis tellus fermentum dui, eget porttitor felis turpis
+eget mauris. Phasellus accumsan velit nec ex accumsan, non imperdiet purus
+finibus. Nullam sed nibh ultrices, finibus lorem at, mollis leo. Suspendisse
+interdum condimentum leo, non vehicula leo.
+[figure|[image|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/1024px-Quill_and_ink.svg.png]
+An image of a quil. An image of a quil. An image of a quil. An image of a quil.]
+]
+
+[section|[header|Basic Concepts]
+
+Morbi non rhoncus quam. Donec sagittis eu velit volutpat posuere. Donec
+venenatis lobortis lectus, non iaculis purus tincidunt sit amet. Ut egestas
+neque neque, ac pharetra justo dapibus quis. Sed posuere a odio sollicitudin
+pretium. Sed euismod orci vel iaculis ullamcorper[footnote|felis tellus
+fermentum dui, eget porttitor felis turpis eget mauris. Phasellus accumsan velit
+nec ex accumsan, non imperdiet purus finibus. Nullam sed nibh ultrices, finibus
+lorem at, mollis]. Nunc a augue lacinia, maximus purus a, egestas
+nisl. Pellentesque cursus enim eu orci rutrum, ac malesuada odio maximus.]
+
+[section|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget
+bibendum nibh, quis posuere neque. Morbi convallis est tortor, non malesuada
+odio tincidunt et. Nulla ut sagittis mi. Aenean ac eros eget urna iaculis
+consectetur eget non velit. Phasellus nec orci ut quam eleifend aliquet. Donec
+quis velit vel nulla accumsan sollicitudin. Pellentesque tincidunt, velit ut
+elementum lacinia, felis tellus fermentum dui, eget porttitor felis turpis eget
+mauris. Phasellus accumsan velit nec ex accumsan, non imperdiet purus
+finibus. Nullam sed nibh ultrices, finibus lorem at, mollis leo. Suspendisse
+interdum condimentum leo, non vehicula leo.]
+
+[section|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget
+bibendum nibh, quis posuere neque[footnote|felis tellus fermentum dui, eget
+porttitor felis turpis eget mauris. Phasellus accumsan velit nec ex accumsan,
+non imperdiet purus finibus. Nullam sed nibh ultrices, finibus lorem at, mollis
+leo.]. 
+
+Morbi convallis est tortor, non malesuada odio tincidunt et. Nulla ut sagittis
+mi. Aenean ac eros eget urna iaculis consectetur eget non velit. Phasellus nec
+orci ut quam eleifend aliquet. Donec quis velit vel nulla accumsan
+sollicitudin. Pellentesque[footnote|Suspendisse interdum condimentum leo, non
+vehicula leo. felis tellus fermentum dui, eget porttitor felis turpis eget
+mauris. Phasellus accumsan velit nec ex accumsan, non imperdiet purus
+finibus. Nullam sed nibh ultrices, finibus lorem at, mollis leo. Suspendisse
+interdum condimentum leo, non vehicula leo.]
+
+ tincidunt, velit ut elementum lacinia, felis tellus fermentum dui, eget
+porttitor felis turpis eget mauris. Phasellus accumsan velit nec ex accumsan,
+non imperdiet purus finibus. Nullam sed nibh ultrices, finibus lorem at, mollis
+leo. Suspendisse interdum condimentum leo, non vehicula leo.]
